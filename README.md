@@ -1,7 +1,4 @@
-# liver-disease-prediction-ml
-Projeto de Machine Learning para predição de doença hepática utilizando dados clínicos, incluindo análise exploratória, pré-processamento e avaliação de modelo.
-
-# 🧠 Liver Disease Prediction
+# 🧠 Liver Disease Prediction ML
 
 Projeto de Machine Learning com o objetivo de prever a presença de doença hepática com base em dados clínicos.
 
