@@ -55,7 +55,8 @@ O modelo foi avaliado utilizando as seguintes métricas:
 - **Recall** → capacidade de identificar casos positivos  
 - **F1-score** → equilíbrio entre acertos e erros  
 
-📌 O recall foi priorizado, pois o problema envolve saúde, onde é mais importante reduzir falsos negativos.
+📌 O recall foi priorizado, pois o problema envolve saúde,  
+onde é mais importante reduzir falsos negativos.
 
 ---
 
@@ -66,7 +67,9 @@ O modelo apresentou:
 - Recall: ~0.74  
 - F1-score: ~0.74  
 
-Isso indica que o modelo consegue identificar boa parte dos casos de doença, porém ainda deixa de detectar uma parcela relevante, o que pode ser crítico em um contexto clínico.
+Isso indica que o modelo consegue identificar boa parte dos casos de doença,  
+porém ainda deixa de detectar uma parcela relevante,  
+o que pode ser crítico em um contexto clínico.
 
 ---
 
@@ -91,4 +94,7 @@ Isso indica que o modelo consegue identificar boa parte dos casos de doença, po
 
 ## 📌 Considerações Finais
 
-O projeto demonstra a aplicação de técnicas de Machine Learning em um problema real da área da saúde, destacando a importância da escolha adequada de métricas e da interpretação dos resultados para tomada de decisão.
+O projeto demonstra a aplicação de técnicas de Machine Learning  
+em um problema real da área da saúde, destacando a importância  
+da escolha adequada de métricas e da interpretação dos resultados  
+para tomada de decisão.
