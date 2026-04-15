@@ -47,6 +47,8 @@ Foi utilizado o modelo de **Regressão Logística**, com ajuste para lidar com d
 ```python
 LogisticRegression(class_weight='balanced')
 
+---
+
 ## 📈 Avaliação do Modelo
 
 O modelo foi avaliado utilizando as seguintes métricas:
